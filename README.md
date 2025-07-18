@@ -3,6 +3,10 @@
 Nike Store is a static, frontend-only website inspired by the official Nike brand, developed as part of my learning journey in modern web development. This project was created to practice and demonstrate key frontend skills such as responsive design, layout structuring, and component-based architecture using React.
 
 Although it does not include full e-commerce functionality, the project replicates a clean, modern UI commonly found on product landing pages. It features interactive sections, product highlights, and a visually appealing layout—all designed to showcase my ability to build sleek and responsive user interfaces.
+
+## DEMO
+https://nike-pj.vercel.app/
+
 ## Authors
 
 - [@YahyaShanawazMohammed](https://github.com/shaan-77)

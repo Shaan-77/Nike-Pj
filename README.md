@@ -1,4 +1,4 @@
-##👟 Nike Store – Modern React E-commerce UI
+## 👟 Nike Store – Modern React E-commerce UI
 
 Nike Store is a static, frontend-only website inspired by the official Nike brand, developed as part of my learning journey in modern web development. This project was created to practice and demonstrate key frontend skills such as responsive design, layout structuring, and component-based architecture using React and TailwindCSS.
 
